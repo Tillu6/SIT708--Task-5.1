@@ -1,0 +1,33 @@
+<resources>
+    <!-- iTube App -->
+    <string name="app_name">iTubeApp</string>
+
+    <!-- HomeFragment -->
+    <string name="hint_youtube_url">Enter YouTube URL</string>
+    <string name="btn_add_to_playlist">Add to Playlist</string>
+
+    <!-- item_playlist.xml -->
+    <string name="play_button_label">Play</string>
+
+    <string name="hint_username">Username or email</string>
+    <string name="hint_password">Password</string>
+
+    <!-- Sign‑up screen -->
+    <string name="full_name_hint">Full name</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm password</string>
+    <string name="create_account">Create account</string>
+
+    <!-- Login screen (if you’re using @string/…) -->
+    <string name="login_hint_username">Username</string>
+    <string name="login_hint_password">Password</string>
+    <string name="btn_login">Log in</string>
+    <string name="btn_signup">Sign up</string>
+
+    <string name="related_news_list_desc">List of related news articles</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+</resources>

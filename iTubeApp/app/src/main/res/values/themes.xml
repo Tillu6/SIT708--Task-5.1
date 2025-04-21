@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme: Material 3, DayNight, NoActionBar -->
+    <style name="Base.Theme.ITubeApp"
+        parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- Brand -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/onPrimary</item>
+        <item name="colorPrimaryContainer">@color/primaryContainer</item>
+
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorOnSecondary">@color/onSecondary</item>
+        <item name="colorSecondaryContainer">@color/secondaryContainer</item>
+
+        <!-- Backgrounds & surfaces -->
+        <item name="colorBackground">@color/background</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorSurfaceVariant">@color/surfaceVariant</item>
+
+        <!-- System bars -->
+        <item name="android:statusBarColor">@color/statusBarColorCustom</item>
+        <item name="android:navigationBarColor">@color/navigationBarColorCustom</item>
+
+        <!-- Window & ripple -->
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:colorControlHighlight">?attr/colorPrimary</item>
+
+        <!-- Toolbar widget style -->
+        <item name="toolbarStyle">@style/Widget.Material3.Toolbar</item>
+    </style>
+
+    <!-- Your “actual” app theme -->
+    <style name="Theme.ITubeApp" parent="Base.Theme.ITubeApp" />
+</resources>

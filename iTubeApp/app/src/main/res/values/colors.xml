@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand colors -->
+    <color name="primary">#6200EE</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="primaryContainer">#BB86FC</color>
+
+    <color name="secondary">#03DAC5</color>
+    <color name="onSecondary">#000000</color>
+    <color name="secondaryContainer">#018786</color>
+
+    <!-- Surfaces & backgrounds -->
+    <color name="background">#FFFFFF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surfaceVariant">#F2F2F2</color>
+
+    <!-- System bars -->
+    <color name="statusBarColorCustom">#3700B3</color>
+    <color name="navigationBarColorCustom">#FFFFFF</color>
+</resources>
